@@ -50,6 +50,8 @@ console.log(menu, starter)
 // console.log(x,y,z)
 // console.log(arr)
 
+
+
 // let [first, second] = restaurant.categories;
 // console.log(first, second)
 
